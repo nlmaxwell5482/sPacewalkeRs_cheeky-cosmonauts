@@ -1,6 +1,7 @@
 
 
-[![DOI](https://sandbox.zenodo.org/badge/1217585833.svg)](https://handle.test.datacite.org/10.5072/zenodo.491767) (https://img.shields.io/badge/Fish-Fish?style=flat&logo=fishshell&logoColor=%23EBFAFF&logoSize=auto&labelColor=%23212D31&color=%230081A7&cacheSeconds=3600)
+[![DOI](https://sandbox.zenodo.org/badge/1217585833.svg)](https://handle.test.datacite.org/10.5072/zenodo.491767) ![Static Badge](https://img.shields.io/badge/Fish-Fish?style=flat&logo=fishshell&logoColor=%23EBFAFF&logoSize=auto&labelColor=%23212D31&color=%230081A7&cacheSeconds=3600)
+
 
 
 # NASA Spacewalk Analysis — Reproducible Manuscript
