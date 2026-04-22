@@ -44,8 +44,6 @@ Here we analyse the complete EVA record to quantify these patterns and place the
 
 ### Data source and structure
 
-DOI: 10.5072/zenodo.491768
-
 EVA records were obtained from NASA's publicly available spacewalk database [@nasa_eva]. The dataset contains one row per EVA, with fields recording the sequential EVA identifier, date, country of the crewing agency (USA or Russia), the names of crew members involved (semicolon-delimited), the vehicle or station from which the EVA was conducted, total duration in `H:MM` format, and a brief description of the EVA objective. The dataset spans from March 1965 to the present.
 
 ### Data processing
