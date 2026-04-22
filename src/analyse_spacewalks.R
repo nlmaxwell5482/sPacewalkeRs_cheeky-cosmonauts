@@ -6,8 +6,8 @@ library(jsonlite)
 library(dplyr)
 library(ggplot2)
 library(lubridate)
-library(tidyr)
-library(knitr)
+
+
 
 dir.create("results/figures", showWarnings = FALSE, recursive = TRUE)
 output_dir <- 'results/figures/'
